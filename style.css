@@ -1,0 +1,30 @@
+body
+{
+    background-image: url(/images/messi.jpeg);
+    background-position: right;
+    background-repeat:
+
+    
+}
+h1
+{
+    font-style: italic;
+    background-color: blue;
+    text-decoration: double;
+    color: aquamarine;
+}
+p
+{
+    font-size: large;
+    font-weight: 700;
+    color:blue;
+}
+#dash2
+{
+    color: ;
+}
+h2
+{
+    float: right;
+    width: 60px;
+}
